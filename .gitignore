@@ -1,0 +1,9 @@
+output/*
+downloads/*
+RESULT/*
+.DS_Store
+token.json
+client_secrets.json
+*.json
+!package.json
+!package-lock.json
